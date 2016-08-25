@@ -1,5 +1,7 @@
 A Very Basic Python Multiplayer game prototype.
 
+Currently allows players to run around a screen together.
+
 Developed for Python 3.5.2 using pygame.
 
 start the server by running
